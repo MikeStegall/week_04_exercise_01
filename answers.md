@@ -6,4 +6,5 @@
 ###It is important so you and your team will know what a certain function does when you come back to look at the code after a long time.
 ##3.) List the 5 primitive types in JavaScript.
 ###Number, String, Booleans, Null, Undefined
-4.) a.) Yes it can be changed.
+##4.)Once a variable has been defined, can its value be changed?
+###a. yes
