@@ -1,15 +1,15 @@
 // a: String
-var result = "The cat jumped over the moon";
+var result = 'The cat jumped over the moon'
 
 // b: Number
-var result = 55 - 27;
+var result = 55 - 27
 
 // c: Boolean
-var result = 75 > 55;
+var result = 75 > 55
 
 // d: Undefined
-var data;
-var result = data;
+var data
+var result = data
 
 // e: Number
-var result = -6544.432;
+var result = -6544.432
